@@ -1,6 +1,6 @@
 {
-  "homepage": "https://devdarji16.github.io/Blasphemy2",
-  "name": "blasphemy",
+  
+  "name": "blasphemy","homepage": "https://devdarji16.github.io/Blasphemy2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
